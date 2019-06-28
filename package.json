@@ -1,14 +1,12 @@
 {
-  "name": "over-pro",
+  "name": "CopyMongoCollection",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "node index"
   },
   "dependencies": {
-    "denizen-lib-server": "^6.0.0",
     "minimist": "^1.2.0",
-    "mongodb": "3.0.1",
-    "pino": "4.10.2"
+    "mongodb": "^3.0.1"
   }
 }
