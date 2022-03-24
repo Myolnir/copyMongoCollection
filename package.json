@@ -6,7 +6,7 @@
     "start": "node index"
   },
   "dependencies": {
-    "minimist": "^1.2.3",
+    "minimist": "^1.2.6",
     "mongodb": "^3.0.1"
   }
 }
